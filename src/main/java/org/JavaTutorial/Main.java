@@ -7,6 +7,7 @@ public class Main{
 
         class phone{
             double version;
+            int java_learning;
             String model;
             phone(double paramversion, String parammodel){
                 model = parammodel;
